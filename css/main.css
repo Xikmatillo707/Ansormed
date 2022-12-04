@@ -120,12 +120,13 @@ body{
     color: #FFFFFF;
 }
 .main-link{
-    display: inline-block;
+    display: inline-block; 
     font-family: "Open Sans Condensed", "Arial", sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #fff;
     font-size: 15px;
+    white-space: nowrap;
     text-decoration: none; 
     padding: 10px 22px;
     background-color: #DE2E54;
